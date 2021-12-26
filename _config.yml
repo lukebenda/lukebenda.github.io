@@ -6,11 +6,11 @@ description: Personal Website Portfolio
 
 # User settings
 username: Lucas J. Benda
-#user_description: I'm a Software Engineer from Argentina, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in world of Giving Circles working with Grapevine, a California based startup trying to improve the world through collaborative giving. I'm the first engineer they hired to work on the platform.
-user_title: Cybersecurity and Privacy Risk Consulttant
+user_description: Hello, and welcome to my online porfolio! I am currently a cybersecurity and privacy risk consultant from Minneapolis, MN. Currently, I work on Payment Card Industry (PCI) risk assessments, reports on compliance (ROC), and Approved Scanning Vendor (ASV) testing. I graduated summa cum laude from St. Ambrose University in Davenport, IA on May 15th, 2021 with a Bachelor of Arts degree in Cybersecurity, a Bachelor of Science degree in Computer Science, and a minor in Criminal Justice.
+user_title: Cybersecurity Risk Consultant
 email: lucasjbenda@gmail.com
 twitter_username: lukebenda3
 github_username:  lukebenda
-gplus_username:  lorem_ipsum
+#gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
