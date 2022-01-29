@@ -5,8 +5,7 @@ description: Personal Website Portfolio
 
 # User settings
 username: Lucas J. Benda
-user_description: Hello, and welcome to my online portfolio! I created this entire website from scratch using GitHub, [Jekyll](https://jekyllrb.com), Markdown, HTML, SCSS, along with various other languages and techniques. 
-I am a cybersecurity and privacy risk consultant from Minneapolis, MN. Currently, I work on Payment Card Industry (PCI) risk assessments, reports on compliance (ROC), and Approved Scanning Vendor (ASV) testing. On May 15, 2021, I graduated summa cum laude from St. Ambrose University in Davenport, IA with a Bachelor of Arts degree in Cybersecurity, a Bachelor of Science degree in Computer Science, and a minor in Criminal Justice.
+user_description: 
 user_title: Cybersecurity Risk Consultant
 email: lucasjbenda@gmail.com
 twitter_username: lukebenda3
