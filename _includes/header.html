@@ -11,9 +11,17 @@
         <a aria-label="My Github" target="_blank" href="https://github.com/lukebenda"><i class="icon fa fa-github-alt" aria-hidden="true"></i></a>
         <a aria-label="My Instagram" target="_blank" href="https://www.instagram.com/luke.benda"><i class="icon fa fa-instagram" aria-hidden="true"></i></a>
       </div>
-      <div class="header-links">
+      <div class="header-links"> 
         <!-- <a class="link" href="#about" data-scroll>About Me</a> -->
       </div>
   </div>
-  <a class="down" href="#about" data-scroll><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a>
+  <!-- Page Navigation Arrows -->
+  <div class="down">
+    <!-- 1/28/22 Wanted to style arrows in _header.scss but could not determine why changes were not appearing
+                 Would like to use inline-block and justified text in scss eventually
+                 Ref: https://css-tricks.com/equidistant-objects-with-css/-->
+      <a href="#about" data-scroll style="color:red; text-align: left;"><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a>
+      <a href="#experience" data-scroll style="color: blue; text-align: center; "><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a>
+      <a href="#resume" data-scroll style="color: green; text-align: right;"><i class="icon fa fa-chevron-down" aria-hidden="true"></i></a>
+  </div>
 </div>
