@@ -1,11 +1,19 @@
+# !IMPORTANT - REMEMBER TO RESTART THE SERVER IN ORDER TO SEE CONFIG CHANGES!
 # Site settings
 title: Lucas J. Benda
 description: Personal Website Portfolio
 # baseurl: "" # the subpath of your site, e.g. /blog
 
 # User settings
-username: Lucas J. Benda
-user_description: 
+username: Lucas Benda
+user_about: Hello, and welcome to my online portfolio!
+# Have not found a way to include links in yml var text
+user_experience: I will be assisting with their Cybersecurity and Hacking course, which was
+    developed with Facebook to provide college students with hands-on experience in offensive security. The class
+    focuses on web applications security, challenging students to learn to think like a hacker and exploit
+    vulnerabilities, while also exploring how to build offensive capabilities into applications.
+  On May 15, 2021, I graduated summa cum laude from St. Ambrose University in Davenport, IA with a Bachelor of Arts
+    degree in Cybersecurity, a Bachelor of Science degree in Computer Science, and a minor in Criminal Justice.
 user_title: Cybersecurity Risk Consultant
 email: lucasjbenda@gmail.com
 twitter_username: lukebenda3
