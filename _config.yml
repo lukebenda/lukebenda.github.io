@@ -18,3 +18,8 @@ twitter_username: lukebenda3
 github_username:  lukebenda
 
 exclude: ['package.json', 'src' , 'node_modules']
+
+# Build settings
+plugins:
+    - jekyll-feed
+    - jekyll-seo-tag
