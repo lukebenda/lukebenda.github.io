@@ -1,21 +1,33 @@
 <!DOCTYPE html>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
+<link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/konpa/devicon@df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
 <html lang="en">
-  {% include head.html %}
-  <body>
-      {% include header.html %}
-      <section id="about">
-        {% include about.html %}
-      </section>
-        {{ content }}
-      <section id="experience"> 
-        {% include experience.html %}
-      </section>
-      {{ content }}
-      <section id="resume">
-        {% include resume.html %}
-      </section>
-        {{ content }}  
-      {% include footer.html %}
-  </body>
+
+<head>{% include head.html %}</head>
+
+<body>
+  {% include header.html %}
+  <section id="about">
+    {% include about.html %}
+  </section>
+  {{ content }}
+
+  <section id="experience">
+    {% include experience.html %}
+  </section>
+  {{ content }}
+
+  <section id="resume">
+    {% include resume.html %}
+  </section>
+  {{ content }}
+
+  <section id="blog">
+    {% include blog.html %}
+  </section>
+  <!-- {{ content }} -->
+
+  {% include footer.html %}
+</body>
+
 </html>

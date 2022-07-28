@@ -4854,6 +4854,19 @@ sup {
     height: 100vh !important
 }
 
+#blog-particles-js {
+    background: #1a222c;
+    display: flex;
+    vertical-align: bottom;
+    min-height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed
+}
+
+#blog-particles-js .blog-particles-js-canvas-el {
+    height: 100vh !important
+}
 .header {
     font-family: 'Montserrat', sans-serif;
     z-index: 1;
@@ -4861,6 +4874,18 @@ sup {
     color: #fff;
     position: absolute;
     top: 50%;
+    left: 50%;
+    margin: 0 auto;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%)
+}
+.blog_header {
+    font-family: 'Montserrat', sans-serif;
+    z-index: 1;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    top: 20%;
     left: 50%;
     margin: 0 auto;
     -webkit-transform: translate(-50%, -50%);
