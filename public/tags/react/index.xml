@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>React on Lucas Benda</title>
+    <link>http://localhost:1313/tags/react/</link>
+    <description>Recent content in React on Lucas Benda</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Password Manager Web App</title>
+      <link>http://localhost:1313/projects/first-project/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/first-project/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;DEMO&lt;/strong&gt; A full-stack password manager I built with a secure login system and
+encryption.&lt;/p&gt;
+&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Built REST API with Express and MongoDB&lt;/li&gt;
+&lt;li&gt;Used JWTs for authentication&lt;/li&gt;
+&lt;li&gt;Deployed with Vercel and MongoDB Atlas&lt;/li&gt;
+&lt;li&gt;Focused on security best practices (input sanitization, password hashing)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/lukebenda/project-repo&#34;&gt;View Code on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
