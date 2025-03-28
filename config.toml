@@ -2,6 +2,9 @@ baseURL = 'https://lukebenda.github.io/'
 title = "Lucas Benda"
 theme = "PaperMod"
 
+[outputs]
+  home = ["HTML"]
+
 [params]
   defaultTheme = "auto"
   showReadingTime = true
