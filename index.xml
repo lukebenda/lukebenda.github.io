@@ -1,39 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Hi, I'm Lucas on Lucas Benda</title><link>https://lukebenda.github.io/</link><description>Recent content in Hi, I'm Lucas on Lucas Benda</description><generator>Hugo -- 0.145.0</generator><language>en</language><lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lukebenda.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://lukebenda.github.io/contact/</link><pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate><guid>https://lukebenda.github.io/contact/</guid><description>&lt;h2 id="lets-connect">Let&amp;rsquo;s Connect&lt;/h2>
-&lt;ul>
-&lt;li>📧 Email: &lt;a href="mailto:lucasjbenda@gmail.com">lucasjbenda@gmail.com&lt;/a>&lt;/li>
-&lt;li>💼 &lt;a href="https://linkedin.com/in/lucas-benda">LinkedIn&lt;/a>&lt;/li>
-&lt;li>🖥️ &lt;a href="https://github.com/lukebenda">GitHub&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>Want to collaborate or just say hi? Feel free to reach out!&lt;/p></description></item><item><title>Interests</title><link>https://lukebenda.github.io/interests/</link><pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate><guid>https://lukebenda.github.io/interests/</guid><description>&lt;h2 id="personal-interests">Personal Interests&lt;/h2>
-&lt;ul>
-&lt;li>🏋️‍♂️ Fitness &amp;amp; Weightlifting&lt;/li>
-&lt;li>⚾ Baseball (avid fan + player)&lt;/li>
-&lt;li>🎹 Playing Piano &amp;amp; Listening to Music&lt;/li>
-&lt;li>🌍 Traveling &amp;amp; Exploring New Cultures&lt;/li>
-&lt;li>🧠 Learning About AI, Tech, and Cybersecurity&lt;/li>
-&lt;li>🃏 Playing Games with Family and Friends&lt;/li>
-&lt;/ul>
-&lt;h2 id="how-these-make-me-better">How These Make Me Better&lt;/h2>
-&lt;p>I believe interests shape creativity, resilience, and collaboration. Staying active and
-curious helps me show up focused, energized, and eager to grow professionally.&lt;/p></description></item><item><title>Password Manager Web App</title><link>https://lukebenda.github.io/projects/first-project/</link><pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate><guid>https://lukebenda.github.io/projects/first-project/</guid><description>&lt;p>&lt;strong>DEMO&lt;/strong> A full-stack password manager I built with a secure login system and
-encryption.&lt;/p>
-&lt;h2 id="highlights">Highlights&lt;/h2>
-&lt;ul>
-&lt;li>Built REST API with Express and MongoDB&lt;/li>
-&lt;li>Used JWTs for authentication&lt;/li>
-&lt;li>Deployed with Vercel and MongoDB Atlas&lt;/li>
-&lt;li>Focused on security best practices (input sanitization, password hashing)&lt;/li>
-&lt;/ul>
-&lt;p>&lt;a href="https://github.com/lukebenda/project-repo">View Code on GitHub&lt;/a>&lt;/p></description></item><item><title>Resume</title><link>https://lukebenda.github.io/resume/</link><pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate><guid>https://lukebenda.github.io/resume/</guid><description>&lt;h2 id="summary">Summary&lt;/h2>
-&lt;p>Technically adept cybersecurity professional with hands-on experience in risk consulting, cloud technologies, and vulnerability management. Proven ability to collaborate with clients and cross-functional teams to deliver secure, scalable solutions. Passionate about leveraging technical expertise to address business challenges and enhance customer success.​&lt;/p>
-&lt;h2 id="experience">Experience&lt;/h2>
-&lt;p>&lt;strong>Cybersecurity Risk Consultant&lt;/strong> — RSM US LLP&lt;/p>
-&lt;p>&lt;em>July 2021 – present | Minneapolis, MN&lt;/em>&lt;/p>
-&lt;ul>
-&lt;li>Partnered with 40+ clients to assess security gaps and recommend solutions to improve network security, identity &amp;amp; access management, and compliance readiness&lt;/li>
-&lt;li>Conducted 100+ external vulnerability scans, providing clients with security risk insights and actionable remediation steps to strengthen their environments&lt;/li>
-&lt;li>Advised clients on security best practices, helping them align with PCI, NIST, and regulatory frameworks while enhancing real-world security posture&lt;/li>
-&lt;li>Translated technical security findings into business-focused recommendations, helping senior leadership understand risk impact and mitigation strategies&lt;/li>
-&lt;li>Managed multiple client engagements simultaneously, presenting findings, conducting security briefings, and coordinating with cross-functional teams&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Cybersecurity and Hacking Teaching Assistant&lt;/strong> — CodePath (part time)&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hi, I&#39;m Lucas on Lucas Benda</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Hi, I&#39;m Lucas on Lucas Benda</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;lets-connect&#34;&gt;Let&amp;rsquo;s Connect&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📧 Email: &lt;a href=&#34;mailto:lucasjbenda@gmail.com&#34;&gt;lucasjbenda@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💼 &lt;a href=&#34;https://linkedin.com/in/lucas-benda&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🖥️ &lt;a href=&#34;https://github.com/lukebenda&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Want to collaborate or just say hi? Feel free to reach out!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interests</title>
+      <link>http://localhost:1313/interests/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/interests/</guid>
+      <description>&lt;h2 id=&#34;personal-interests&#34;&gt;Personal Interests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🏋️‍♂️ Fitness &amp;amp; Weightlifting&lt;/li&gt;
+&lt;li&gt;⚾ Baseball (avid fan + player)&lt;/li&gt;
+&lt;li&gt;🎹 Playing Piano &amp;amp; Listening to Music&lt;/li&gt;
+&lt;li&gt;🌍 Traveling &amp;amp; Exploring New Cultures&lt;/li&gt;
+&lt;li&gt;🧠 Learning About AI, Tech, and Cybersecurity&lt;/li&gt;
+&lt;li&gt;🃏 Playing Games with Family and Friends&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-these-make-me-better&#34;&gt;How These Make Me Better&lt;/h2&gt;
+&lt;p&gt;I believe interests shape creativity, resilience, and collaboration. Staying active and
+curious helps me show up focused, energized, and eager to grow professionally.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Password Manager Web App</title>
+      <link>http://localhost:1313/projects/first-project/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/first-project/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;DEMO&lt;/strong&gt; A full-stack password manager I built with a secure login system and
+encryption.&lt;/p&gt;
+&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Built REST API with Express and MongoDB&lt;/li&gt;
+&lt;li&gt;Used JWTs for authentication&lt;/li&gt;
+&lt;li&gt;Deployed with Vercel and MongoDB Atlas&lt;/li&gt;
+&lt;li&gt;Focused on security best practices (input sanitization, password hashing)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/lukebenda/project-repo&#34;&gt;View Code on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Technically adept cybersecurity professional with hands-on experience in risk consulting, cloud technologies, and vulnerability management. Proven ability to collaborate with clients and cross-functional teams to deliver secure, scalable solutions. Passionate about leveraging technical expertise to address business challenges and enhance customer success.​&lt;/p&gt;
+&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Cybersecurity Risk Consultant&lt;/strong&gt; — RSM US LLP&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;July 2021 – present | Minneapolis, MN&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Partnered with 40+ clients to assess security gaps and recommend solutions to improve network security, identity &amp;amp; access management, and compliance readiness&lt;/li&gt;
+&lt;li&gt;Conducted 100+ external vulnerability scans, providing clients with security risk insights and actionable remediation steps to strengthen their environments&lt;/li&gt;
+&lt;li&gt;Advised clients on security best practices, helping them align with PCI, NIST, and regulatory frameworks while enhancing real-world security posture&lt;/li&gt;
+&lt;li&gt;Translated technical security findings into business-focused recommendations, helping senior leadership understand risk impact and mitigation strategies&lt;/li&gt;
+&lt;li&gt;Managed multiple client engagements simultaneously, presenting findings, conducting security briefings, and coordinating with cross-functional teams&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Cybersecurity and Hacking Teaching Assistant&lt;/strong&gt; — CodePath (part time)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
