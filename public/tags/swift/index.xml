@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Swift on Lucas Benda</title>
+    <link>http://localhost:1313/tags/swift/</link>
+    <description>Recent content in Swift on Lucas Benda</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/swift/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emissi0n</title>
+      <link>http://localhost:1313/projects/emission-calculator/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/emission-calculator/</guid>
+      <description>A car emission calulator - Built as part of CodePath&amp;#39;s final group project. Helps users log activities and receive carbon emission estimates.</description>
+    </item>
+    <item>
+      <title>Parstagram</title>
+      <link>http://localhost:1313/projects/parstagram/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/parstagram/</guid>
+      <description>A photo-sharing iPhone app using Parse backend</description>
+    </item>
+    <item>
+      <title>Twitter Clone</title>
+      <link>http://localhost:1313/projects/twitter/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/twitter/</guid>
+      <description>A Twitter clone</description>
+    </item>
+    <item>
+      <title>Flix</title>
+      <link>http://localhost:1313/projects/flix/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/flix/</guid>
+      <description>iOS app to browse and view movies from The Movie DB</description>
+    </item>
+  </channel>
+</rss>

@@ -5,35 +5,41 @@
     <loc>http://localhost:1313/contact/</loc>
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cybersecurity/</loc>
-    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/express/</loc>
-    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/interests/</loc>
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mongodb/</loc>
-    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/first-project/</loc>
-    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/react/</loc>
-    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/resume/</loc>
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projects/emission-calculator/</loc>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ios/</loc>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/swift/</loc>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-03-23T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/uikit/</loc>
+    <lastmod>2022-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/parstagram/</loc>
+    <lastmod>2022-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/twitter/</loc>
+    <lastmod>2022-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/flix/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>

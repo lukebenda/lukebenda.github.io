@@ -6,23 +6,35 @@
     <description>Recent content in Projects on Lucas Benda</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Password Manager Web App</title>
-      <link>http://localhost:1313/projects/first-project/</link>
-      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/first-project/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;DEMO&lt;/strong&gt; A full-stack password manager I built with a secure login system and
-encryption.&lt;/p&gt;
-&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Built REST API with Express and MongoDB&lt;/li&gt;
-&lt;li&gt;Used JWTs for authentication&lt;/li&gt;
-&lt;li&gt;Deployed with Vercel and MongoDB Atlas&lt;/li&gt;
-&lt;li&gt;Focused on security best practices (input sanitization, password hashing)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/lukebenda/project-repo&#34;&gt;View Code on GitHub&lt;/a&gt;&lt;/p&gt;</description>
+      <title>Emissi0n</title>
+      <link>http://localhost:1313/projects/emission-calculator/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/emission-calculator/</guid>
+      <description>A carbon emissions calculator iOS app built for CodePath’s final group project, allowing users to log trips by vehicle type and distance to estimate carbon output, track progress, and set reduction goals.</description>
+    </item>
+    <item>
+      <title>Parstagram</title>
+      <link>http://localhost:1313/projects/parstagram/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/parstagram/</guid>
+      <description>An Instagram-style iOS photo-sharing app built with a custom Parse backend, enabling users to post photos, view a global feed, and add comments in real time.</description>
+    </item>
+    <item>
+      <title>Twitter Clone</title>
+      <link>http://localhost:1313/projects/twitter/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/twitter/</guid>
+      <description>A Twitter clone for iOS that allows users to read timelines, compose tweets, favorite, and retweet posts with a clean, responsive interface.</description>
+    </item>
+    <item>
+      <title>Flix</title>
+      <link>http://localhost:1313/projects/flix/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/flix/</guid>
+      <description>An iOS application that uses The Movie Database (TMDb) API to let users browse and view popular, upcoming, and top-rated movies with poster previews and detailed information.</description>
     </item>
   </channel>
 </rss>
