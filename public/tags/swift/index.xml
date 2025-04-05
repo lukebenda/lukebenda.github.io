@@ -13,28 +13,28 @@
       <link>http://localhost:1313/projects/emission-calculator/</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/emission-calculator/</guid>
-      <description>A car emission calulator - Built as part of CodePath&amp;#39;s final group project. Helps users log activities and receive carbon emission estimates.</description>
+      <description>A carbon emissions calculator iOS app built for CodePath’s final group project, allowing users to log trips by vehicle type and distance to estimate carbon output, track progress, and set reduction goals.</description>
     </item>
     <item>
       <title>Parstagram</title>
       <link>http://localhost:1313/projects/parstagram/</link>
       <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/parstagram/</guid>
-      <description>A photo-sharing iPhone app using Parse backend</description>
+      <description>An Instagram-style iOS photo-sharing app built with a custom Parse backend, enabling users to post photos, view a global feed, and add comments in real time.</description>
     </item>
     <item>
       <title>Twitter Clone</title>
       <link>http://localhost:1313/projects/twitter/</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/twitter/</guid>
-      <description>A Twitter clone</description>
+      <description>A Twitter clone for iOS that allows users to read timelines, compose tweets, favorite, and retweet posts with a clean, responsive interface.</description>
     </item>
     <item>
       <title>Flix</title>
       <link>http://localhost:1313/projects/flix/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/flix/</guid>
-      <description>iOS app to browse and view movies from The Movie DB</description>
+      <description>An iOS application that uses The Movie Database (TMDb) API to let users browse and view popular, upcoming, and top-rated movies with poster previews and detailed information.</description>
     </item>
   </channel>
 </rss>

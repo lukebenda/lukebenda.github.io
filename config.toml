@@ -21,7 +21,7 @@ theme = "PaperMod"
   imageWidth = 260
   imageHeight = 260 
   imageTitle = "Lucas Benda"
-
+  imageAlt = "Lucas Benda"
 
   [[params.profileMode.buttons]]
     name = "Resume"
@@ -31,16 +31,15 @@ theme = "PaperMod"
     name = "Projects"
     url = "/projects"
 
-  [[params.profileMode.socialIcons]]
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/lucas-benda"
+  
+  [[params.socialIcons]]
     name = "github"
     url = "https://github.com/lukebenda"
 
-  [[params.profileMode.socialIcons]]
-    name = "linkedin"
-    url = "https://linkedin.com/in/yourusername"
-
 [menu]
-
   [[menu.main]]
     name = "Resume"
     url = "/resume/"
