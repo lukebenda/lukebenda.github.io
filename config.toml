@@ -1,0 +1,62 @@
+baseURL = 'https://lukebenda.github.io/'
+title = "Lucas Benda"
+theme = "PaperMod"
+
+[outputs]
+  home = ["HTML"]
+
+[params]
+  defaultTheme = "auto"
+  showReadingTime = true
+  showShareButtons = true
+  showPostNavLinks = true
+  showBreadCrumbs = true
+  showCodeCopyButtons = true
+
+ [params.profileMode]
+  enabled = true #PaperMod's profileMode - overrides whatever's in content/_index.md
+  title = "Lucas Benda"
+  subtitle = "Cybersecurity Risk Consultant | Tech Enthusiast"
+  imageUrl = "images/March2025-profile.jpg"
+  imageWidth = 260
+  imageHeight = 260 
+  imageTitle = "Lucas Benda"
+  imageAlt = "Lucas Benda"
+
+  [[params.profileMode.buttons]]
+    name = "Resume"
+    url = "/resume"
+
+  [[params.profileMode.buttons]]
+    name = "Projects"
+    url = "/projects"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/lucas-benda"
+  
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/lukebenda"
+
+[menu]
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Interests"
+    url = "/interests/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
