@@ -11,7 +11,7 @@ Welcome to my personal portfolio website, built with [Hugo](https://gohugo.io/) 
 I'm a **Cybersecurity Risk Consultant** and **Tech Enthusiast** with a background in Computer Science and Cybersecurity. This site showcases my projects, resume, and interests — and serves as a home base for my online presence.
 
 ---
-
+ 
 ## 📁 Project Highlights
 
 ### [Emissi0n – Carbon Tracker](https://github.com/Codepath-Group3Project/emission-calculator)
