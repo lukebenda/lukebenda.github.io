@@ -1,7 +1,7 @@
 ---
 title: "Secure AWS Web Application Architecture for a Retail Client"
 date: 2025-04-05
-draft: false
+draft: true
 description: "A secure AWS architecture for a retail client's inventory management app."
 ---
 

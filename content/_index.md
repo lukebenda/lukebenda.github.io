@@ -2,7 +2,7 @@
 title: "Hi, I'm Lucas"
 date: 2025-03-23
 ---
-
+<!-- Overwritten by config.toml -->
 Welcome to my portfolio website! I'm a **technology enthusiast** who loves 
 **cybersecurity, consulting, and building solutions**.
 
