@@ -12,7 +12,7 @@ I'm a **Cybersecurity Risk Consultant** and **Tech Enthusiast** with a backgroun
 
 ---
  
-## 📁 Project Highlights
+## 📁 Project Highlights 
 
 ### [Emissi0n – Carbon Tracker](https://github.com/Codepath-Group3Project/emission-calculator)
 - iOS app to estimate carbon emissions from user activities  
