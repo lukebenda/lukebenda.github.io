@@ -2,45 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lukebenda.github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lukebenda.github.io/contact/</loc>
+    <loc>http://localhost:1313/projects/secure-aws-web-application-architecture/</loc>
+    <lastmod>2025-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lukebenda.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lukebenda.github.io/interests/</loc>
+    <loc>http://localhost:1313/interests/</loc>
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lukebenda.github.io/resume/</loc>
+    <loc>http://localhost:1313/resume/</loc>
     <lastmod>2025-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lukebenda.github.io/projects/emission-calculator/</loc>
+    <loc>http://localhost:1313/projects/emission-calculator/</loc>
     <lastmod>2022-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lukebenda.github.io/tags/ios/</loc>
+    <loc>http://localhost:1313/tags/ios/</loc>
     <lastmod>2022-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lukebenda.github.io/tags/swift/</loc>
+    <loc>http://localhost:1313/tags/swift/</loc>
     <lastmod>2022-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lukebenda.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2022-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lukebenda.github.io/tags/uikit/</loc>
+    <loc>http://localhost:1313/tags/uikit/</loc>
     <lastmod>2022-11-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lukebenda.github.io/projects/parstagram/</loc>
+    <loc>http://localhost:1313/projects/parstagram/</loc>
     <lastmod>2022-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lukebenda.github.io/projects/twitter/</loc>
+    <loc>http://localhost:1313/projects/twitter/</loc>
     <lastmod>2022-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lukebenda.github.io/projects/flix/</loc>
+    <loc>http://localhost:1313/projects/flix/</loc>
     <lastmod>2022-09-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lukebenda.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
