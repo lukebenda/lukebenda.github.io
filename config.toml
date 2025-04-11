@@ -14,7 +14,8 @@ theme = "PaperMod"
   showCodeCopyButtons = true
 
 [params.assets]
-  favicon = "favicon.png"
+  favicon = "favicon-v2.png"
+
 
  [params.profileMode]
   enabled = true #PaperMod's profileMode - overrides whatever's in content/_index.md
