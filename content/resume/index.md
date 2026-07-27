@@ -6,18 +6,23 @@ draft: false
 
 ## Summary
 
-Technically adept cybersecurity professional with hands-on experience in risk consulting, cloud technologies, and vulnerability management. Proven ability to collaborate with clients and cross-functional teams to deliver secure, scalable solutions. Passionate about leveraging technical expertise to address business challenges and enhance customer success.​
+Cybersecurity risk and compliance leader with 5+ years advising clients across PCI DSS, NIST CSF, and vulnerability management engagements, and 8+ years in IT. Leads a multi-client advisory practice, translates technical and compliance gaps into executive-ready remediation roadmaps, and reviews incident response plans, tabletop documentation, and business continuity procedures as part of client assessments. Minnesota Copilot Champion driving AI-enabled process improvement across engagement delivery.
 
 ## Experience
 
-**Cybersecurity Risk Consultant** — RSM US LLP
+**Supervisor, Cybersecurity Risk & Data Protection** — RSM US LLP
 
-*July 2021 – present | Minneapolis, MN*
-- Partnered with 40+ clients to assess security gaps and recommend solutions to improve network security, identity & access management, and compliance readiness
-- Conducted 100+ external vulnerability scans, providing clients with security risk insights and actionable remediation steps to strengthen their environments
-- Advised clients on security best practices, helping them align with PCI, NIST, and regulatory frameworks while enhancing real-world security posture
-- Translated technical security findings into business-focused recommendations, helping senior leadership understand risk impact and mitigation strategies
-- Managed multiple client engagements simultaneously, presenting findings, conducting security briefings, and coordinating with cross-functional teams
+*July 2021 – Present | Minneapolis, MN*
+
+*Promoted: Associate → Senior Associate (Aug 2023) → Supervisor (Aug 2025)*
+- Lead the firm's PCI ASV scanning practice, overseeing 7 team members, 35+ client accounts, 100+ vulnerability scans to date, and vendor & billing operations
+- Own delivery for 5–12 concurrent client engagements spanning PCI and NIST CSF assessments, stepping in to lead engagements when assigned project leaders depart and bringing clients to compliance
+- Assess clients' logging, monitoring, and incident response posture against various frameworks (PCI, NIST CSF, etc.), identifying critical SIEM coverage gaps and delivering phased remediation roadmaps covering solution selection, log integration, alerting design, and team training
+- Review incident response plans, tabletop exercise documentation, and business continuity procedures as part of compliance assessments, flagging gaps between documented and operational readiness
+- Present compliance and vulnerability findings to IT, security, and GRC leadership across 15+ client engagements over 3+ years, educating clients on PCI DSS and ASV requirements through project walkthroughs and presentations
+- Mentor 5+ associates and senior associates through technical coaching and career development, and train new ASV personnel across domestic and international teams
+- Serve as Minnesota Copilot Champion, advising Risk Consulting team members on practical AI use cases and building a custom Microsoft Copilot agent to streamline ASV scanning delivery
+- Contributed $430K+ in FY25 and $670K+ in FY26 sales activity through pursuit-team support, including contract setup, forecasting, and RFP development
 
 **Cybersecurity and Hacking Teaching Assistant** — CodePath (part time)
 
@@ -57,9 +62,11 @@ Technically adept cybersecurity professional with hands-on experience in risk co
 ## Certifications
 
 - Certified Cloud Practitioner (CLF-C02); *AWS, 2023*
+- Security Essentials (GSEC); *GIAC*
 - Associate Qualified Security Assessor (PCI AQSA); *Payment Card Industry (PCI), 2024*
 - Approved Scanning Vendor ​(PCI ASV); *PCI, 2025*
 - Certified CSF Practitioner (CCSFP); *HITRUST, 2025*
+- CISA; *ISACA, In Progress*
 
 ## Education
 **B.S. Computer Science | B.A. Cybersecurity** — St. Ambrose University  
@@ -70,14 +77,28 @@ Technically adept cybersecurity professional with hands-on experience in risk co
 - Student activities student coordinator
 - Member of: computer club, campus activities board, dance marathon
 
+## Leadership & Community Involvement
+
+**Minnesota ISACA Board – Education Committee**
+
+*2024 – Present*
+- Organize chapter education events and lead planning for annual meetings of 50+ attendees
+- Coordinate bringing outside instructors, including a CISA exam bootcamp, to RSM Minneapolis
+
+**RSM Campus Recruiting & Employee Network Groups**
+
+*2021 – Present*
+- Volunteer at campus recruiting events and career fairs to identify and engage prospective new hire candidates
+- Participate in employee network groups to support firmwide community and engagement initiatives
+
 ## Skills
 
-- **Languages**: Python, Bash, Swift, HTML/JS/CSS
-- **Tools**: Kali Linux, Metasploit, Burp Suite, Qualys, Nmap
-- **Frameworks**: PCI DSS, NIST CSF, HITRUST
-- **Cloud Security**: AWS basics, IAM
+- **Languages**: Python, Bash, PowerShell, Swift, HTML/JS/CSS
+- **Tools**: Qualys, Kali Linux, Metasploit, Burp Suite, Nmap, Active Directory, Splunk, MS Defender, CrowdStrike
+- **Frameworks**: PCI DSS, PCI ASV, NIST CSF, HITRUST
+- **Cloud Security**: AWS & Azure basics, IAM
 - **Technical Communication**: Report writing, Presenting
 
-[Download PDF Resume](../Lucas-Benda-Resume-2025.pdf)
+[Download PDF Resume](../Lucas-Benda-Resume-2026.pdf)
 <!-- You can drop your actual resume.pdf file into the static/ folder to make it 
 downloadable from yourdomain.com/resume.pdf. -->
